@@ -1,6 +1,6 @@
 # Sitejabber-Web-Scraping-with-BS4
 
-### What this is
+### Context
 - Using Python's Beautiful Soup Library, this program allows for the gathering and storing of reviews from https://www.sitejabber.com/ to  .csv format. 
 
 ### How to use
@@ -17,3 +17,7 @@
 
 ### Example .csv
 [![Image from Gyazo](https://i.gyazo.com/1325830faed24ce9f3eae04bd6b3c260.png)](https://gyazo.com/1325830faed24ce9f3eae04bd6b3c260)
+
+### Resources
+- https://pypi.org/project/beautifulsoup4/
+- https://pypi.org/project/requests/2.7.0/
